@@ -7,7 +7,7 @@ pip install playsound3<br>
 pip install PyQt5<br>
 
 atau <br>
-py -m pip install pygame atau pip install pygame-ce<br>
+py -m pip install pygame atau py -m pip install pygame-ce<br>
 py -m pip install opencv-python <br>
 py -m pip install playsound3<br>
 py -m pip install PyQt5<br>
